@@ -1,6 +1,7 @@
 # 🎞️ Resize EXR
 
 A simple Python tool for batch resizing `.exr` files using `oiiotool`.
+⚙️ This tool is designed to run on Linux environments.
 
 ---
 
